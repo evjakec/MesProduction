@@ -1,0 +1,4 @@
+USE [MesProduction]
+GO
+CREATE SCHEMA [Global] AUTHORIZATION [dbo]
+GO
